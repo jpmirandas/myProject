@@ -1,5 +1,5 @@
 <?php
-  class MyClass{
-    //aew
-  }
+class MyClass {
+	// aew
+}
 ?>
