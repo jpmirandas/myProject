@@ -3,7 +3,7 @@ class MyClass {
 	// aew
 	//oi?
 	
-	public function aew(){
+	public function aew2(){
 		
 	}
 }
