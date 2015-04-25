@@ -4,7 +4,7 @@ class MyClass {
 	//oi?
 	
 	public function aew2(){
-		
+		echo 'aew';
 	}
 }
 ?>
