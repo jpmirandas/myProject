@@ -5,6 +5,7 @@ class MyClass {
 	
 	public function aew2(){
 		echo 'aew2';
+		echo 'from github';
 	}
 }
 ?>
